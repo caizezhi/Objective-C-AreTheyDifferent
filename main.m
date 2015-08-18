@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+
 BOOL areIntDifferent(int thing1,int thing2){
     if (thing1 == thing2){
         return(NO);
